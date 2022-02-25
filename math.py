@@ -1,6 +1,6 @@
 #add imp
 def add(x,y):
-	pass
+	return x+y
 
 #sub imp
 def subtract(x,y):
@@ -9,7 +9,7 @@ def subtract(x,y):
 #mul imp	
 def mul(x,y):
 	pass
-	
+
 #div imp	
 def div(x,y):
 	pass			
