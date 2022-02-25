@@ -4,7 +4,7 @@ def add(x,y):
 
 #sub imp
 def subtract(x,y):
-	pass
+	return x-y #from remote repo
 
 #mul imp	
 def mul(x,y):
