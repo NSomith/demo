@@ -8,7 +8,7 @@ def subtract(x,y):
 
 #mul imp	
 def mul(x,y):
-	pass
+	return x*y #from local repo
 
 #div imp	
 def div(x,y):
